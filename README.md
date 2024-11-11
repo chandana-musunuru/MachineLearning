@@ -1,7 +1,7 @@
 # MachineLearning
 
-#Customer Segmentation using Clustering
-#Project Overview :
+#Customer Segmentation using Clustering                                                                                                                                                                                
+#Project Overview :                                                                                                                                                                                                       
 This project involves customer segmentation using clustering algorithms on a dataset containing customer demographics and behavioral attributes. The goal is to group customers into segments based on their purchasing behaviors and demographics, allowing for targeted marketing and personalized customer service.
 
 #DATASET:
